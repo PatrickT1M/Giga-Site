@@ -213,9 +213,9 @@ function musi(){
 
 }
 
-function abrir_ingles() {
+function abrir_robotica() {
 
-    var url = "cursos/curso_ingles.html"
+    var url = "cursos/curso_robo.html"
     window.location.href = url;
     
 }

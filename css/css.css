@@ -21,3 +21,12 @@
 
 
 /* Barra de Rolagem */
+
+
+/* TIRA OUTLINE ACCORDION */
+
+
+.accordion-button:focus{
+    outline: none; 
+    box-shadow: none;
+}
